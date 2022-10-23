@@ -1,4 +1,4 @@
-"Светофор"
+//"Светофор"
 
 
 package ru.unitech_mo.study_p2_22.androrid;
